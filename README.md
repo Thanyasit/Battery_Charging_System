@@ -1,6 +1,7 @@
 # Solar Cell Phone Charger
 <h2>Description</h2>
-This Arduino project is a solar cell phone charger that charges your phone when you insert money. The charger uses a solar panel to power an Arduino board, a bill validator, and a 20x4 character LCD screen. The LCD screen displays the amount of money inserted, the charging time, and the status of the charger.
+This Arduino project is a solar cell phone charger that charges your phone when you insert money. The charger uses a solar panel to power an Arduino board, a bill validator, and a 20x4 character LCD screen. The LCD screen displays the amount of money inserted, the charging time, and the status of the charger.<br>
+<b>Project at Tha Luang Cement Thai Anusorn Technical College (2017)</b>
 <h2>Prerequisites</h2>
 You will need the following hardware to run this project:<br><br>
 
